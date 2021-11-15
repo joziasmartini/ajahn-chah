@@ -1,2 +1,8 @@
-# ajahn-chah-redesign
-Redesign of the Ajahn Chah website.
+# Ajahn Chah Redesign
+Redesign of the Ajahn Chah website (ajahnchah.org).
+
+### Old version
+<img src="old-version.png">
+
+### New version
+<img src="new-version.png">
