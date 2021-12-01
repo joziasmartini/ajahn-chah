@@ -1,4 +1,4 @@
-# Ajahn Chah Redesign
+# Ajahn Chah
 Redesign of the Ajahn Chah website (ajahnchah.org).
 
 ### Old version
